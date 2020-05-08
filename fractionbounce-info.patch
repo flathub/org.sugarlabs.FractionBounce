@@ -1,17 +1,15 @@
 diff --git a/activity/activity.info b/activity/activity.info
-index 2b1e77a..320eede 100644
+index 1fe4f64..7dd0593 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
 @@ -1,11 +1,19 @@
  [Activity]
  name = FractionBounce
--activity_version = 27
--license = GPLv3
--bundle_id = org.sugarlabs.FractionBounceActivity
-+activity_version = 27.1
-+release_date = 2019-10-22
+ activity_version = 28.1
++release_date = 2020-04-21
 +metadata_license = CC0-1.0
-+license = GPLv3+
+ license = GPLv3+
+-bundle_id = org.sugarlabs.FractionBounceActivity
 +bundle_id = org.sugarlabs.FractionBounce
  exec = sugar-activity3 FractionBounceActivity.FractionBounceActivity
  icon = activity-fractionbounce
