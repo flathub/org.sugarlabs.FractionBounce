@@ -26,7 +26,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/fractionbounce",
-                    "commit": "4c6d978ca340b036318ac6e714d7cbf1f568d4a6"
+                    "commit": "e99ec8bfbcd5a85981cc5cd0ea01a3a160d08ac9"
                 },
                 {
                     "type": "patch",
