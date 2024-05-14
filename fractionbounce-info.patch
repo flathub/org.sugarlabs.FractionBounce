@@ -2,7 +2,7 @@ diff --git a/activity/activity.info b/activity/activity.info
 index 1fe4f64..7dd0593 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
-@@ -1,11 +1,19 @@
+@@ -1,11 +1,20 @@
  [Activity]
  name = FractionBounce
  activity_version = 28.1
@@ -22,5 +22,6 @@ index 1fe4f64..7dd0593 100644
  repository = https://github.com/sugarlabs/fractionbounce
 +description = FractionBounce is a game to nudge a bouncing ball to land at an estimate of a given fraction. For example, if 2/3 is displayed on the ball, then the ball must land 2/3 the distance along the bottom.
 +developer_name = Sugar Labs Community
++developer_id = org.sugarlabs
 +update_contact = tch@sugarlabs.org
 +screenshots = https://raw.githubusercontent.com/sugarlabs/fractionbounce/master/screenshots/en/1.png https://raw.githubusercontent.com/sugarlabs/fractionbounce/master/screenshots/en/2.png https://raw.githubusercontent.com/sugarlabs/fractionbounce/master/screenshots/en/3.png
